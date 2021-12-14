@@ -1,0 +1,93 @@
+* {
+    font-family: sans-serif;
+}
+.putar {
+    position: relative;
+    transform: rotate(20deg);
+    width: fit-content;
+    margin-left: 30px;
+}
+.putar2 {
+    position: relative;
+    transform: rotate(-20deg);
+    width: fit-content;
+}
+.putar4 {
+    position: relative;
+    transform: rotate(10deg);
+    width: fit-content;
+    margin-left: -30px;
+}
+.profil {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    position: relative;
+    margin: auto;
+    margin-top: 30vh;
+}
+.profil img {
+    width: 200px;
+    position: absolute;
+    left: -15px;
+}
+.konten {
+    text-align: center;
+}
+.konten p {
+    font-size: 40px;
+    font-weight: 100;
+}
+.konten h2 {
+    margin-bottom: -40px;
+}
+.konten2 {
+    margin-left: 10px;
+    margin-top: 50vh;
+}
+.konten2 h2 {
+    margin-bottom: -10px;
+}
+.gambar-dua {
+    width: 200px;
+    box-shadow: 0 0 10px 2px black;
+    /* transform: rotate(-20deg); */
+    position: absolute;
+    z-index: -10;
+    top: -150px;
+    left: 230px;
+}
+.konten3 {
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 25vh;
+}
+.konten3 h2 {
+    margin-bottom: -10px;
+}
+.gambar-tiga {
+    width: 200px;
+    box-shadow: 0 0 10px 2px black;
+    position: absolute;
+    z-index: -10;
+}
+.konten4 {
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 50vh;
+}
+.gambar-empat {
+    width: 250px;
+    box-shadow: 0 0 10px 2px black;
+    position: absolute;
+    z-index: -10;
+    top: -300px;
+}
+.link {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: large;
+    text-align: center;
+    margin: auto;
+}
