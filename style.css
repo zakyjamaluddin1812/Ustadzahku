@@ -25,7 +25,7 @@
     border-radius: 50%;
     position: relative;
     margin: auto;
-    margin-top: 30vh;
+    margin-top: 10vh;
 }
 .profil img {
     width: 200px;
@@ -44,7 +44,7 @@
 }
 .konten2 {
     margin-left: 10px;
-    margin-top: 50vh;
+    margin-top: 40vh;
 }
 .konten2 h2 {
     margin-bottom: -10px;
@@ -61,7 +61,7 @@
 .konten3 {
     text-align: right;
     margin-right: 10px;
-    margin-top: 25vh;
+    margin-top: 10vh;
 }
 .konten3 h2 {
     margin-bottom: -10px;
